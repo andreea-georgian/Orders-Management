@@ -1,0 +1,9 @@
+Comanda numarul 9
+Client 18
+
+Produs comandat: stick usb
+Pret produs :32.0 lei
+Cantitate: 3
+Pretul total al comenzii: 96.0
+
+Multumim pentru incredere! :)
