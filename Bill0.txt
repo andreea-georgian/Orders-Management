@@ -1,0 +1,9 @@
+Comanda numarul 0
+Client 3
+
+Produs comandat: mouse
+Pret produs :100.0 lei
+Cantitate: 40
+Pretul total al comenzii: 4000.0
+
+Multumim pentru incredere! :)

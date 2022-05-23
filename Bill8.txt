@@ -1,0 +1,9 @@
+Comanda numarul 8
+Client 4
+
+Produs comandat: laptop
+Pret produs :1000.0 lei
+Cantitate: 2
+Pretul total al comenzii: 2000.0
+
+Multumim pentru incredere! :)
